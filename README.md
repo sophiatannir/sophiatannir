@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5603AQHoF2UdaL0BVw/profile-displayphoto-shrink_400_400/0/1662057402922?e=1668643200&v=beta&t=pZ03WFBTJfKDLPiOA8AVLMgFPx5rKP4WN4zPgwCimT0" width="100"/>
-</div>
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sophiatannir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
